@@ -3,7 +3,7 @@
 ## 👀 About me
 I am Umraz Khan, currently pursuing my bachelor's degree majoring in computer science from Presidency University. A Cyber Security Enthusiast and a Programmer. I love writing code and problem solving.
 
-Check out my [portfolio](https://assassinumz.githun.io).
+Check out my [portfolio](https://assassinumz.github.io/).
 
 <a href="https://discord.gg/3nfQadt"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
 <a href="mailto:kumraz858@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
