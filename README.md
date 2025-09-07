@@ -1,7 +1,7 @@
 ![image.gif](https://raw.githubusercontent.com/assassinumz/assassinumz/main/header.gif)
 
 ## 👀 About me
-I am Umraz Khan, currently pursuing my bachelor's degree majoring in computer science from Presidency University. A Cyber Security Enthusiast and a Programmer. I love writing code and problem solving.
+I am Umraz Khan, Frontend Engineer at Under 25. A Cyber Security Enthusiast and a Programmer. I love writing code and problem solving.
 
 Check out my [portfolio](https://assassinumz.github.io/).
 
