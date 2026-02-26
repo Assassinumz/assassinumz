@@ -38,6 +38,3 @@ Check out my [portfolio](https://assassinumz.github.io/).
 ## 👥 Communities
 * [Hack Club](https://hackclub.com/) Lead for Presidency University
 * Lead for the CTF Team of Presidency University
-
-## 💬 Stats
-[![Umraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=assassinumz&count_private=true&show_icons=true&title_color=08ffc8&icon_color=08ffc8&text_color=9f9f9f&bg_color=151515)](https://github.com/anurag/github-readme-stats)
